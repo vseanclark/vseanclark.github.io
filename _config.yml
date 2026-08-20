@@ -1,4 +1,8 @@
 title: v.seanclark.us
-description: Personal site
+description: Notes on the projects of a tech guy, track coach and other things I'm working on.
 url: https://v.seanclark.us
 theme: minima
+author:
+  name: Sean Clark
+header_pages:
+  - about.md
